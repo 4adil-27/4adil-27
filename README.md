@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Firebase-Auth**
 
-- 🌱 I’m currently learning **ReactJs, NodeJs**
+- 🌱 I’m currently learning **NodeJs**
 
 - 📫 How to reach me **aadilinamdar27@gmail.com**
 
